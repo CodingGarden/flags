@@ -635,67 +635,67 @@
     "aspect_ratio": "1.5"
   },
   {
-    "name": "",
+    "name": "Alberta",
     "route": "ca/ab",
     "aspect_ratio": "2"
   },
   {
-    "name": "",
+    "name": "British Columbia",
     "route": "ca/bc",
     "aspect_ratio": "1.6588235294117648"
   },
   {
-    "name": "",
+    "name": "Manitoba",
     "route": "ca/mb",
     "aspect_ratio": "2"
   },
   {
-    "name": "",
+    "name": "New Brunswick",
     "route": "ca/nb",
     "aspect_ratio": "1.6"
   },
   {
-    "name": "",
+    "name": "Newfoundland and Labrador",
     "route": "ca/nl",
     "aspect_ratio": "2"
   },
   {
-    "name": "",
+    "name": "Nova Scotia",
     "route": "ca/ns",
     "aspect_ratio": "2"
   },
   {
-    "name": "",
+    "name": "Northwest Territories",
     "route": "ca/nt",
     "aspect_ratio": "2"
   },
   {
-    "name": "",
+    "name": "Nunavut",
     "route": "ca/nu",
     "aspect_ratio": "1.7762096774193548"
   },
   {
-    "name": "",
+    "name": "Ontario",
     "route": "ca/on",
     "aspect_ratio": "2"
   },
   {
-    "name": "",
+    "name": "Prince Edward Island",
     "route": "ca/pe",
     "aspect_ratio": "1.5"
   },
   {
-    "name": "",
+    "name": "Quebec",
     "route": "ca/qc",
     "aspect_ratio": "1.5"
   },
   {
-    "name": "",
+    "name": "Saskatchewan",
     "route": "ca/sk",
     "aspect_ratio": "2"
   },
   {
-    "name": "",
+    "name": "Yukon",
     "route": "ca/yt",
     "aspect_ratio": "2"
   },
