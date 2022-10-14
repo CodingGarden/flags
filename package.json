@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/RudeySH/flags#readme",
   "dependencies": {
+    "cli-progress": "^3.11.2",
     "jsdom": "^20.0.0",
     "sharp": "^0.31.0"
   }
