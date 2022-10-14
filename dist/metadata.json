@@ -50,122 +50,122 @@
     "aspect_ratio": "1.5"
   },
   {
-    "name": "",
+    "name": "Salta",
     "route": "ar/a",
     "aspect_ratio": "1.41"
   },
   {
-    "name": "",
+    "name": "Buenos Aires",
     "route": "ar/b",
     "aspect_ratio": "1.5555555555555556"
   },
   {
-    "name": "",
+    "name": "Ciudad Autónoma de Buenos Aires",
     "route": "ar/c",
     "aspect_ratio": "1.544392523364486"
   },
   {
-    "name": "",
+    "name": "San Luis",
     "route": "ar/d",
     "aspect_ratio": "1.5047619047619047"
   },
   {
-    "name": "",
+    "name": "Entre Ríos",
     "route": "ar/e",
     "aspect_ratio": "2"
   },
   {
-    "name": "",
+    "name": "La Rioja",
     "route": "ar/f",
     "aspect_ratio": "1.5555555555555556"
   },
   {
-    "name": "",
+    "name": "Santiago del Estero",
     "route": "ar/g",
     "aspect_ratio": "2.5"
   },
   {
-    "name": "",
+    "name": "Chaco",
     "route": "ar/h",
     "aspect_ratio": "1.5041322314049588"
   },
   {
-    "name": "",
+    "name": "San Juan",
     "route": "ar/j",
     "aspect_ratio": "1.5546218487394958"
   },
   {
-    "name": "",
+    "name": "Catamarca",
     "route": "ar/k",
     "aspect_ratio": "1.832214765100671"
   },
   {
-    "name": "",
+    "name": "La Pampa",
     "route": "ar/l",
     "aspect_ratio": "1.5544444444444445"
   },
   {
-    "name": "",
+    "name": "Mendoza",
     "route": "ar/m",
     "aspect_ratio": "0.8472222222222222"
   },
   {
-    "name": "",
+    "name": "Misiones",
     "route": "ar/n",
     "aspect_ratio": "1.5"
   },
   {
-    "name": "",
+    "name": "Formosa",
     "route": "ar/p",
     "aspect_ratio": "1.8333333333333333"
   },
   {
-    "name": "",
+    "name": "Neuquén",
     "route": "ar/q",
     "aspect_ratio": "1.2533081285444234"
   },
   {
-    "name": "",
+    "name": "Río Negro",
     "route": "ar/r",
     "aspect_ratio": "1.5"
   },
   {
-    "name": "",
+    "name": "Santa Fe",
     "route": "ar/s",
     "aspect_ratio": "2"
   },
   {
-    "name": "",
+    "name": "Tucumán",
     "route": "ar/t",
     "aspect_ratio": "1.5"
   },
   {
-    "name": "",
+    "name": "Chubut",
     "route": "ar/u",
     "aspect_ratio": "2"
   },
   {
-    "name": "",
+    "name": "Tierra del Fuego",
     "route": "ar/v",
     "aspect_ratio": "1.4814814814814814"
   },
   {
-    "name": "",
+    "name": "Corrientes",
     "route": "ar/w",
     "aspect_ratio": "1.5"
   },
   {
-    "name": "",
+    "name": "Córdoba",
     "route": "ar/x",
     "aspect_ratio": "1.5"
   },
   {
-    "name": "",
+    "name": "Jujuy",
     "route": "ar/y",
     "aspect_ratio": "1"
   },
   {
-    "name": "",
+    "name": "Santa Cruz",
     "route": "ar/z",
     "aspect_ratio": "1.5188866799204772"
   },
@@ -3695,6 +3695,16 @@
     "aspect_ratio": "1.8"
   },
   {
+    "name": "Santa Ana",
+    "route": "us/ca/santa_ana",
+    "aspect_ratio": "1.6690140845070423"
+  },
+  {
+    "name": "Santa Barbara",
+    "route": "us/ca/santa_barbara",
+    "aspect_ratio": "1.5"
+  },
+  {
     "name": "San Diego",
     "route": "us/ca/san_diego",
     "aspect_ratio": "1.66625"
@@ -3708,16 +3718,6 @@
     "name": "San Luis Obispo",
     "route": "us/ca/san_luis_obispo",
     "aspect_ratio": "1.5950155763239875"
-  },
-  {
-    "name": "Santa Ana",
-    "route": "us/ca/santa_ana",
-    "aspect_ratio": "1.6690140845070423"
-  },
-  {
-    "name": "Santa Barbara",
-    "route": "us/ca/santa_barbara",
-    "aspect_ratio": "1.5"
   },
   {
     "name": "Woodland",
