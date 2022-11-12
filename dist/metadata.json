@@ -4365,6 +4365,11 @@
     "aspect_ratio": "1.5"
   },
   {
+    "name": "Milwaukee People's Flag",
+    "route": "us/wi/milwaukee-peoples",
+    "aspect_ratio": "1.6666666666666667"
+  },
+  {
     "name": "Milwaukee",
     "route": "us/wi/milwaukee",
     "aspect_ratio": "1.4534883720930232"
