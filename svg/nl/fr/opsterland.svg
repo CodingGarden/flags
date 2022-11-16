@@ -1,0 +1,19 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Opsterland</cgf:name>
+  <cgf:route>nl/fl/opsterland</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_1436)">
+<path d="M0 0H600V400H0V0Z" fill="white"/>
+<path d="M0 0H300V200H0V0Z" fill="#CC0C2F"/>
+<path d="M300 200H600V400H300V200Z" fill="#009A3D"/>
+</g>
+<defs>
+<clipPath id="clip0_1_1436">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Moerdijk</cgf:name>
+  <cgf:route>nl/nb/moerdijk</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_5241)">
+<path d="M600 0H0V400H600V0Z" fill="#FCCC00"/>
+<path d="M0 0V400H200V200L0 0Z" fill="#3B9B35"/>
+<path d="M200 0H0V200H200V0Z" fill="white"/>
+<path d="M164 30.667L30.6665 164ZM30.6665 30.667L164 164Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M97.3334 83.1913L156.929 23.5957L171.071 37.7378L111.476 97.3334L171.071 156.929L156.929 171.071L97.3334 111.476L37.7378 171.071L23.5957 156.929L83.1913 97.3334L23.5957 37.7378L37.7378 23.5957L97.3334 83.1913Z" fill="#CC112F"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M98.8746 227.793L166.981 297.5L98.8746 367.207L28.8228 297.5L98.8746 227.793ZM57.1771 297.5L98.6745 338.793L139.019 297.5L98.6745 256.207L57.1771 297.5Z" fill="white"/>
+<rect x="200" width="400" height="100" fill="black"/>
+<rect x="200" y="200" width="400" height="100" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_1_5241">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

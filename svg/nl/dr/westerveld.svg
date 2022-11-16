@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Westerveld</cgf:name>
+  <cgf:route>nl/dr/westerveld</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_880)">
+<path d="M600 112.614H0V285.517H600V112.614Z" fill="#FCDD09"/>
+<path d="M600 174.798H0V222.953H600V174.798Z" fill="black"/>
+<path d="M600 0H0V112.614H600V0Z" fill="#088A31"/>
+<path d="M600 285.517H0V400H600V285.517Z" fill="#0F47AF"/>
+</g>
+<defs>
+<clipPath id="clip0_1_880">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

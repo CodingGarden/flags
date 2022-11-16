@@ -1,0 +1,22 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Purmerend</cgf:name>
+  <cgf:route>nl/nh/purmerend</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_6985)">
+<path d="M600 0H0V100H600V0Z" fill="#CC112F"/>
+<path d="M600 100H0V300H600V100Z" fill="#FCCC00"/>
+<path d="M600 300H0V400H600V300Z" fill="black"/>
+<path d="M233.333 146.667L212 169.333L222.667 164V172V174.667V200L244 177.333L233.333 182.667V174.667V172V146.667Z" fill="black"/>
+<path d="M206.666 200L185.333 222.667L196 217.333V225.333V228V253.333L217.333 230.667L206.666 236V228V225.333V200Z" fill="black"/>
+<path d="M182.666 146.667L161.333 169.333L172 164V172V174.667V200L193.333 177.333L182.666 182.667V174.667V172V146.667Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_1_6985">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

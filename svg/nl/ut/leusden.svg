@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Leusden</cgf:name>
+  <cgf:route>nl/ut/leusden</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_9499)">
+<path d="M0 0H600V400H0V0Z" fill="#39B54A"/>
+<path d="M100 0L0 100V400H100V0Z" fill="black"/>
+<path d="M100 0V400H600V300H200V100L100 0Z" fill="white"/>
+<path d="M100 26.667V400H600V322.667H180V109.334L100 26.667Z" fill="#CC112F"/>
+</g>
+<defs>
+<clipPath id="clip0_1_9499">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Hendrik-Ido-Ambacht</cgf:name>
+  <cgf:route>nl/zh/hendrik_ido_ambacht</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_10956)">
+<path d="M600 0H0V400H600V0Z" fill="white"/>
+<path d="M0 48H600V60H0V68H600V80H0V86.6667H600V100H0V48Z" fill="#CC112F"/>
+<path d="M0 297.333H600V309.333H0V317.333H600V329.333H0V336H600V349.333H0V297.333Z" fill="#CC112F"/>
+<path d="M61.334 130.667L100.001 169.333" stroke="black" stroke-width="15"/>
+<path d="M61.334 169.333L100.001 130.667" stroke="black" stroke-width="15"/>
+<path d="M61.334 226.667L100.001 265.333" stroke="black" stroke-width="15"/>
+<path d="M61.334 265.333L100.001 226.667" stroke="black" stroke-width="15"/>
+<path d="M128 178.667L166.667 217.333" stroke="black" stroke-width="15"/>
+<path d="M128 217.333L166.667 178.667" stroke="black" stroke-width="15"/>
+</g>
+<defs>
+<clipPath id="clip0_1_10956">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

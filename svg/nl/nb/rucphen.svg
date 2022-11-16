@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Rucphen</cgf:name>
+  <cgf:route>nl/nb/rucphen</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_5562)">
+<rect width="600" height="400" fill="black"/>
+<rect y="133" width="600" height="134" fill="#CC112F"/>
+<rect width="600" height="133" fill="#407630"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M200.5 40L245.5 100L208 150L238 190L275.5 140L320.5 200L275.5 260L238 210L208 250L245.5 300L200.5 360L155.5 300L193 250L163 210L125.5 260L80.5 200L125.5 140L163 190L193 150L155.5 100L200.5 40ZM200.5 140L230.5 100L200.5 60L170.5 100L200.5 140ZM200.5 160L170.5 200L200.5 240L230.5 200L200.5 160ZM155.5 200L125.5 160L95.5 200L125.5 240L155.5 200ZM200.5 260L170.5 300L200.5 340L230.5 300L200.5 260ZM245.5 200L275.5 240L305.5 200L275.5 160L245.5 200Z" fill="white" fill-opacity="0.966347"/>
+</g>
+<defs>
+<clipPath id="clip0_1_5562">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

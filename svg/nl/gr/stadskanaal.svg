@@ -1,0 +1,23 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Stadskanaal</cgf:name>
+  <cgf:route>nl/gr/stadskanaal</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_3506)">
+<path d="M0 0H600V400H0V0Z" fill="black"/>
+<path d="M33.333 66.6667H600ZM600 333.333H33.333Z" fill="black"/>
+<path d="M33.333 66.6667H600M600 333.333H33.333" stroke="#FDDC42" stroke-width="15"/>
+<path d="M0 0H200V133.333H600V266.667H200V400H0V0Z" fill="white"/>
+<path d="M33.333 200H600Z" fill="black"/>
+<path d="M33.333 200H600" stroke="#0039A7" stroke-width="15"/>
+<path d="M0 133.333H200V266.667H0V133.333Z" fill="#009645"/>
+</g>
+<defs>
+<clipPath id="clip0_1_3506">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

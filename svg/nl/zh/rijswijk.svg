@@ -1,0 +1,19 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Rijswijk</cgf:name>
+  <cgf:route>nl/zh/rijswijk</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_11275)">
+<path d="M0 0H600V400H0V0Z" fill="#0039A6"/>
+<path d="M0 200H600Z" fill="black"/>
+<path d="M0 200H600" stroke="#FCCC00" stroke-width="100"/>
+</g>
+<defs>
+<clipPath id="clip0_1_11275">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

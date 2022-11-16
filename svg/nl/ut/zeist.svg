@@ -1,0 +1,18 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Zeist</cgf:name>
+  <cgf:route>nl/ut/zeist</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_9939)">
+<path d="M600 0H0V400H600V0Z" fill="white"/>
+<path d="M0 0V133.333H48V66.6667H152V133.333H250.667V66.6667H354.667V133.333H448V66.6667H552V133.333H600V0H0Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_1_9939">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

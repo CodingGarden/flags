@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Woensdrecht</cgf:name>
+  <cgf:route>nl/nb/woensdrecht</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_5787)">
+<path d="M0 0H600V400H0V0Z" fill="#FCCC00"/>
+<path d="M100 116.667H600ZM600 283.334H100ZM100 200H600Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M600 129.167H100V104.167H600V129.167ZM600 212.5H100V187.5H600V212.5ZM100 270.834H600V295.834H100V270.834Z" fill="#0B72CF"/>
+<path d="M0 0H200V400H0V0Z" fill="#2FB134"/>
+</g>
+<defs>
+<clipPath id="clip0_1_5787">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

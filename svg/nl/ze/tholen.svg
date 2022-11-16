@@ -1,0 +1,23 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Tholen</cgf:name>
+  <cgf:route>nl/ze/tholen</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_10454)">
+<path d="M600 0H0V44H600V0Z" fill="#CC112F"/>
+<path d="M600 44H0V88H600V44Z" fill="white"/>
+<path d="M600 89.3333H0V133.333H600V89.3333Z" fill="#0039A6"/>
+<path d="M600 133.333H0V266.667H600V133.333Z" fill="#FCCC00"/>
+<path d="M600 266.667H0V310.667H600V266.667Z" fill="#CC112F"/>
+<path d="M600 310.667H0V354.667H600V310.667Z" fill="white"/>
+<path d="M600 356H0V400H600V356Z" fill="#0039A6"/>
+</g>
+<defs>
+<clipPath id="clip0_1_10454">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

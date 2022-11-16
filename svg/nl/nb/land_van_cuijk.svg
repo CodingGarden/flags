@@ -1,0 +1,18 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Land van Cuijk</cgf:name>
+  <cgf:route>nl/nb/land_van_cuijk</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_5215)">
+<path d="M600 0H0V400H600V0Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M55.2187 62.709V47.9433H149.645L149.632 62.709H163.031V34.3799H41.8335V62.709H55.2187ZM149.596 143.762V138.779H163.042V143.762C163.042 157.777 151.857 169.175 138.103 169.175H120.663C114.319 169.175 109.157 174.434 109.157 180.896H95.7219C95.7219 174.434 90.5585 169.173 84.2172 169.173H66.7761C53.0169 169.173 41.8335 157.777 41.8335 143.762V138.779H55.2685V143.762C55.2685 150.226 60.4319 155.485 66.7732 155.485H84.2143C91.3946 155.485 97.8708 158.591 102.433 163.562C107.147 158.402 113.745 155.477 120.648 155.485H138.089C144.434 155.485 149.596 150.226 149.596 143.762V143.762Z" fill="#E4032E"/>
+</g>
+<defs>
+<clipPath id="clip0_1_5215">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

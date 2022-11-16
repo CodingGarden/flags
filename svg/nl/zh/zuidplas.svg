@@ -1,0 +1,21 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Zuidplas</cgf:name>
+  <cgf:route>nl/zh/zuidplas</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_11408)">
+<path d="M599.989 0H0.00976562V400H599.989V0Z" fill="#FEFEFE"/>
+<path d="M27.5022 -2.88184H-0.566406V251.546H27.5022V-2.88184Z" fill="#D40000"/>
+<path d="M27.5019 251.546H-0.542969V399.882H27.5019V251.546Z" fill="#353BA4"/>
+<path d="M599.752 281.565V251.546L27.5021 251.546V281.565L599.752 281.565Z" fill="#353BA4"/>
+<path d="M599.752 251.546V221.526L27.5021 221.526V251.546L599.752 251.546Z" fill="#D40000"/>
+</g>
+<defs>
+<clipPath id="clip0_1_11408">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

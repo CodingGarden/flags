@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Heiloo</cgf:name>
+  <cgf:route>nl/nh/heiloo</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_6855)">
+<path d="M0 0H600V400H0V0Z" fill="#FFF004"/>
+<path d="M0 0H200V400H0V0Z" fill="#BB242B"/>
+<path d="M600 400H0V200H600" fill="#1C4384"/>
+<path d="M76.2374 36.8626C80.4206 39.461 86.2213 40.769 87.1864 46.3688L87.2137 88.6592H47.229C40.0016 87.9612 38.6594 83.6216 35.9914 80.4936L35.8613 119.371C38.6318 115.699 39.9632 110.441 45.9228 109.743H87.6063L87.4756 151.181C85.1148 157.494 81.248 159.593 77.5447 162.149L123.279 162.637C116.578 160.15 113.182 155.82 111.257 151.424V109.743H150.197C154.479 110.697 156.854 114.615 159.082 118.762L159.213 79.5186C158.794 81.1646 156.935 87.0153 149.413 88.7811H111.257L111.257 46.6126C110.534 41.4568 115.434 39.2977 119.359 36.6189L76.2381 36.8626H76.238H76.2374Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_6855">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

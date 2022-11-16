@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Oisterwijk</cgf:name>
+  <cgf:route>nl/nb/oisterwijk</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_5258)">
+<path d="M600 0H0V400H600V0Z" fill="white"/>
+<path d="M152 0H125.333V400H152V0Z" fill="#F32737"/>
+<path d="M226.667 0H177.333V400H226.667V0Z" fill="#F32737"/>
+<path d="M277.334 0H250.667V400H277.334V0Z" fill="#F32737"/>
+</g>
+<defs>
+<clipPath id="clip0_1_5258">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

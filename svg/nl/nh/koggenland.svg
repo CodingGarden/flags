@@ -1,0 +1,22 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Koggenland</cgf:name>
+  <cgf:route>nl/nh/koggenland</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_6875)">
+<path d="M-1.24805 -1.69702V400.496H602.66V-1.47555L-1.24805 -1.69702Z" fill="#033DAB"/>
+<path d="M61.736 -0.778037L196.939 197.17L-1.34766 130.3V-1.87427L61.234 -1.56106L61.736 -0.778037V-0.778037Z" fill="#FCDD09"/>
+<path d="M197.274 197.483L62.7403 400.285L-1.26367 400.442L-1.18001 264.51L197.274 197.483Z" fill="#FCDD09"/>
+<path d="M196.939 197.17L602.543 44.812L602.779 351.108L196.939 197.17Z" fill="#FCDD09"/>
+<path d="M197.608 196.543L196.771 -1.71777L332.811 -1.71777L197.608 196.543Z" fill="white"/>
+<path d="M197.058 198.513L332.35 400.452L196.855 400.364L197.058 198.513V198.513Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_6875">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

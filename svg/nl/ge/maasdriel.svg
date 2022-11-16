@@ -1,0 +1,21 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Maasdriel</cgf:name>
+  <cgf:route>nl/ge/maasdriel</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_3062)">
+<path d="M0.193115 0.841797V108.454L601.966 108.619V1.0068L0.193115 0.841797Z" fill="#0039A6"/>
+<path d="M0.880249 133.781V279.821L602.521 280.045V134.005L0.880249 133.781Z" fill="#CC112F"/>
+<path d="M0.814148 293.011V400.624L601.73 400.789V293.176L0.814148 293.011V293.011Z" fill="#2FB134"/>
+<path d="M0.104966 96.1317L0.145839 139.6L120.347 140.075L120.684 183.871L241.342 184.206V140.075L361.407 139.878V183.703H481.983V139.797L602.484 140.075L602.443 95.9316L0.104614 96.1317H0.104966Z" fill="#FCCC00"/>
+<path d="M0.0266679 230.657L0.00115967 319.31L602.495 319.409V230.657H482.131L481.906 274.321L361.542 274.597L361.819 230.132L241.149 230.657L240.849 274.731L120.56 274.796V230.657H0.0266579V230.657L0.0266679 230.657Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_3062">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

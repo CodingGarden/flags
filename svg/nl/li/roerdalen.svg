@@ -1,0 +1,19 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Roerdalen</cgf:name>
+  <cgf:route>nl/li/roerdalen</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_4096)">
+<path d="M600 0H0V400H600V0Z" fill="#0039A7"/>
+<path d="M0 0V200H600V400L0 0Z" fill="#CC0C2F"/>
+<path d="M0 159.444C46.6667 159.444 53.3333 107.222 100 107.222C146.667 107.222 153.333 159.444 200 159.444C246.667 159.444 253.333 107.222 300 107.222C346.667 107.222 353.333 159.444 400 159.444C446.667 159.444 453.333 107.222 500 107.222C546.667 107.222 553.333 159.444 600 159.444V292.778C553.333 292.778 546.667 240.556 500 240.556C453.333 240.556 446.667 292.778 400 292.778C353.333 292.778 346.667 240.556 300 240.556C253.333 240.556 246.667 292.778 200 292.778C153.333 292.778 146.667 240.556 100 240.556C53.3333 240.556 46.6667 292.778 0 292.778" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_4096">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

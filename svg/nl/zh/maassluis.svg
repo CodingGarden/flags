@@ -1,0 +1,11 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Maassluis</cgf:name>
+  <cgf:route>nl/zh/maassluis</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><rect width="600" height="600" fill="#0037A1"></rect>
+<path d="M0 133.333C50 108.333 100 108.333 150 133.333C200 158.333 250 158.333 300 133.333C350 108.333 400 108.333 450 133.333C500 158.333 550 158.333 600 133.333V266.667C550 291.667 500 291.667 450 266.667C400 241.667 350 241.667 300 266.667C250 291.667 200 291.667 150 266.667C100 241.667 50 241.667 0 266.667" fill="white"/>
+</svg>
