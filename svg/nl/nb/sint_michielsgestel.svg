@@ -1,0 +1,21 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Sint-Michielsgestel</cgf:name>
+  <cgf:route>nl/nb/sint_michielsgestel</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_5681)">
+<path d="M600 0H0V400H600V0Z" fill="#0039A6"/>
+<path d="M256 245.333H0V400H256V245.333Z" fill="white"/>
+<path d="M602.667 0H346.667V154.667H602.667V0Z" fill="white"/>
+<path d="M0 153.333V200H300V0H254.667V153.333H0Z" fill="white"/>
+<path d="M300 400V200H600V248H348V400H300Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_5681">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

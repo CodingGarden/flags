@@ -1,0 +1,23 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Stichtse Vecht</cgf:name>
+  <cgf:route>nl/ut/stichtse_vecht</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_9839)">
+<path d="M220.556 0.647461H0.698242V399.346H220.556V0.647461Z" fill="#ECECEC"/>
+<path d="M74.3745 0.65332H0.689453V148.595H74.3745V0.65332Z" fill="#D92329"/>
+<path d="M218.233 0.677734H144.548V148.619H218.233V0.677734Z" fill="#D92329"/>
+<path d="M74.3579 251.374H0.672852V399.315H74.3579V251.374Z" fill="#D92329"/>
+<path d="M220.552 251.407H146.867V399.349H220.552V251.407Z" fill="#D92329"/>
+<path d="M599.336 0.694336H218.165V399.383H599.336V0.694336Z" fill="#FBEC10"/>
+<path d="M218.23 148.864C249.859 169.302 279.226 170.383 306.482 153.395C332.327 138.07 368.594 134.318 408.873 153.395C438.287 170.339 462.948 168.15 484.942 153.395C519.468 135.551 552.296 138.761 584.203 153.395L599.277 162.166V259.812C591.592 258.707 583.907 255.268 576.222 251.775C551.581 238.263 528.313 232.96 491.9 251.775C464.552 261.86 436.11 268.209 400.988 251.775C373.724 238.149 346.674 233.054 310.54 251.775C283.332 262.69 254.92 268.27 218.23 251.775V148.864Z" fill="#1D7ABF"/>
+</g>
+<defs>
+<clipPath id="clip0_1_9839">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,24 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Vijfheerenlanden</cgf:name>
+  <cgf:route>nl/ut/vijfheerenlanden</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_9889)">
+<path d="M600 0H0V400H600V0Z" fill="white" stroke="white"/>
+<path d="M114.847 99.3648L71.8896 74.4806L72.0764 3.46973L114.66 28.1516L114.847 99.3648Z" fill="#C39D0E" stroke="#C39D0E" stroke-width="0.987545"/>
+<path d="M114.842 99.7705H15.8721V142.927H114.842V99.7705Z" fill="#C39D0E" stroke="#C39D0E"/>
+<path d="M86.6446 240.86L43.6953 215.446L43.8821 142.925L86.4578 168.132L86.6446 240.86Z" fill="#332B78" stroke="#332B78" stroke-width="0.9979"/>
+<path d="M114.469 204.55H15.499V247.707H114.469V204.55Z" fill="#332B78" stroke="#332B78"/>
+<path d="M114.656 354.769H15.6855V397.925H114.656V354.769Z" fill="#E84121" stroke="#E84121"/>
+<path d="M114.469 305.112L15.499 247.706L15.499 297.265L114.656 354.258" fill="#E84121"/>
+<path d="M114.469 305.112L15.499 247.706L15.499 297.265L114.656 354.258" stroke="#E84121" stroke-width="0.997615"/>
+</g>
+<defs>
+<clipPath id="clip0_1_9889">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,31 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Dongen</cgf:name>
+  <cgf:route>nl/nb/dongen</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_4899)">
+<path d="M600 0H0V400H600V0Z" fill="#CC112F"/>
+<path d="M0 217H54.5455V350.333H109.091V283.667H0V217Z" fill="white"/>
+<path d="M109.091 217H163.636V350.333H218.182V283.667H109.091V217Z" fill="white"/>
+<path d="M218.182 217H272.727V350.333H327.273V283.667H218.182V217Z" fill="white"/>
+<path d="M327.272 217H381.818V350.333H436.363V283.667H327.272V217Z" fill="white"/>
+<path d="M436.364 217H490.909V350.333H545.455V283.667H436.364V217Z" fill="white"/>
+<path d="M545.455 217H600V283.667H545.455V217Z" fill="white"/>
+<path d="M600 261.444H0V305.889H600V261.444Z" fill="white"/>
+<path d="M0 44.4443H54.5455V177.778H109.091V111.111H0V44.4443Z" fill="white"/>
+<path d="M109.091 44.4443H163.636V177.778H218.182V111.111H109.091V44.4443Z" fill="white"/>
+<path d="M218.182 44.4443H272.727V177.778H327.273V111.111H218.182V44.4443Z" fill="white"/>
+<path d="M327.272 44.4443H381.818V177.778H436.363V111.111H327.272V44.4443Z" fill="white"/>
+<path d="M436.364 44.4443H490.909V177.778H545.455V111.111H436.364V44.4443Z" fill="white"/>
+<path d="M545.455 44.4443H600V111.111H545.455V44.4443Z" fill="white"/>
+<path d="M600 88.8887H0V133.333H600V88.8887Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_4899">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

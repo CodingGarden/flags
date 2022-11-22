@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Schiedam</cgf:name>
+  <cgf:route>nl/zh/schiedam</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_11282)">
+<rect width="600" height="400" fill="#F5E200"/>
+<rect y="333" width="600" height="67" fill="black"/>
+<rect y="200" width="600" height="67" fill="black"/>
+<rect y="67" width="600" height="66" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_1_11282">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

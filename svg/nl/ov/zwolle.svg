@@ -1,0 +1,19 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Zwolle</cgf:name>
+  <cgf:route>nl/ov/zwolle</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_7526)">
+<path d="M0 0H600V400H0V0Z" fill="#005ABC"/>
+<path d="M300 0V400ZM0 200H600Z" fill="black"/>
+<path d="M300 0V400M0 200H600" stroke="white" stroke-width="90"/>
+</g>
+<defs>
+<clipPath id="clip0_1_7526">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

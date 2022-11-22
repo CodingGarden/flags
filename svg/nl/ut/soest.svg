@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Soest</cgf:name>
+  <cgf:route>nl/ut/soest</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_9847)">
+<path d="M600 0H0V400H600V0Z" fill="#2FB134"/>
+<path d="M600 66.667H0V88.8892H600V66.667Z" fill="#FCCC00"/>
+<path d="M600 311.111H0V333.334H600V311.111Z" fill="#FCCC00"/>
+<path d="M0 155.556C40 130.371 80 130.371 120 155.556C160 180.741 200 180.741 240 155.556C280 130.371 320 130.371 360 155.556C400 180.741 440 180.741 480 155.556C520 130.371 560 130.371 600 155.556V244.445C560 219.26 520 219.26 480 244.445C440 269.63 400 269.63 360 244.445C320 219.26 280 219.26 240 244.445C200 269.63 160 269.63 120 244.445C80 219.26 40 219.26 0 244.445" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_9847">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

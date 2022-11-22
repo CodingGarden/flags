@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Doesburg</cgf:name>
+  <cgf:route>nl/ge/doesburg</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_2621)">
+<path d="M600 0H0V400H600V0Z" fill="white"/>
+<path d="M600 100H0V300H600V100Z" fill="#CC0C2F"/>
+<path d="M166.667 286.667C214.531 286.667 253.333 247.865 253.333 200C253.333 152.135 214.531 113.333 166.667 113.333C118.802 113.333 80 152.135 80 200C80 247.865 118.802 286.667 166.667 286.667Z" fill="#FFFF00"/>
+<path d="M136.667 266.667C173.486 266.667 203.333 236.819 203.333 200C203.333 163.181 173.486 133.333 136.667 133.333C99.8477 133.333 70 163.181 70 200C70 236.819 99.8477 266.667 136.667 266.667Z" fill="#CC0C2F"/>
+</g>
+<defs>
+<clipPath id="clip0_1_2621">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

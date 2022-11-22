@@ -1,0 +1,22 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Amersfoort</cgf:name>
+  <cgf:route>nl/ut/amersfoort</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_8506)">
+<path d="M600 1H0V400H600V1Z" fill="white" stroke="black" stroke-width="1.11203" stroke-linecap="square"/>
+<path d="M133 1H0V133H133V1Z" fill="#CC112F" stroke="#CC112F" stroke-width="1.1047" stroke-linecap="square"/>
+<path d="M599 134H134V266H599V134Z" fill="#CC112F" stroke="#CC112F" stroke-width="1.11877" stroke-linecap="square"/>
+<path d="M133 267H0V400H133V267Z" fill="#CC112F" stroke="#CC112F" stroke-width="1.1047" stroke-linecap="square"/>
+<path d="M80 134H54V266H80V134Z" fill="#CC112F" stroke="#CC112F" stroke-width="1.08207" stroke-linecap="square"/>
+<path d="M134 186H0V213H134V186Z" fill="#CC112F" stroke="#CC112F" stroke-width="1.10721" stroke-linecap="square"/>
+</g>
+<defs>
+<clipPath id="clip0_1_8506">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

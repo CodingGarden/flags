@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Achtkarspelen</cgf:name>
+  <cgf:route>nl/fl/achtkarspelen</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_1085)">
+<path d="M600 0H0V66.6667H600V0Z" fill="#CC0C2F"/>
+<path d="M600 66.6667H0V333.333H600V66.6667Z" fill="white"/>
+<path d="M600 333.333H0V400H600V333.333Z" fill="#00AE42"/>
+<path d="M35 200L205.711 270.711L135 100L64.2893 270.711L235 200L64.2893 129.289L135 300L205.711 129.289L35 200Z" fill="#0039A7"/>
+</g>
+<defs>
+<clipPath id="clip0_1_1085">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

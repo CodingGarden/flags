@@ -1,0 +1,19 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Nieuwegein</cgf:name>
+  <cgf:route>nl/ut/nieuwegein</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_9807)">
+<path d="M0 0H600V400H0V0Z" fill="#0063FF"/>
+<path d="M250 0H350V100L250 0ZM250 300V400H350L250 300Z" fill="white"/>
+<path d="M0 100H250L350 200V100H600V300H350L250 200V300H0V100Z" fill="#FF0031"/>
+</g>
+<defs>
+<clipPath id="clip0_1_9807">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

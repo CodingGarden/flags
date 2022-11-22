@@ -1,0 +1,21 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Westvoorne</cgf:name>
+  <cgf:route>nl/zh/westvoorne</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_11349)">
+<path d="M0 0H600V400H0V0Z" fill="black"/>
+<path d="M0 0H600V333.333H0V0Z" fill="#FCCC00"/>
+<path d="M0 0H600V266.667H0V0Z" fill="#10693D"/>
+<path d="M0 0H600V133.333H0V0Z" fill="white"/>
+<path d="M0 0H600V66.6667H0V0Z" fill="#CC112F"/>
+</g>
+<defs>
+<clipPath id="clip0_1_11349">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

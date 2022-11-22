@@ -1,0 +1,18 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Buren</cgf:name>
+  <cgf:route>nl/ge/buren</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_2615)">
+<path d="M600 0H0V400H600V0Z" fill="#CC0C2F"/>
+<path d="M0 133.333H85.7143V180.953H171.429V133.333H257.143V180.953H342.857V133.333H428.571V180.953H514.286V133.333H600V219.048H514.286V266.667H428.571V219.048H342.857V266.667H257.143V219.048H171.429V266.667H85.7143V219.048H0V133.333Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_2615">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

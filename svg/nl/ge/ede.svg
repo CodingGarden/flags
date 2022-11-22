@@ -1,0 +1,18 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Ede</cgf:name>
+  <cgf:route>nl/ge/ede</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_2674)">
+<path d="M600 0H0V400H600V0Z" fill="#FFFF00"/>
+<path d="M180 230.304H420V249.091H180V230.304ZM180 192.727H223.636C231.455 173.091 254.545 149.091 300 149.091C345.455 149.091 368.545 173.091 376.364 192.727H420V211.515H180V192.727ZM300 0V400H600V0H300Z" fill="#0000FF"/>
+</g>
+<defs>
+<clipPath id="clip0_1_2674">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Lansingerland</cgf:name>
+  <cgf:route>nl/zh/lansingerland</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_11035)">
+<path opacity="0.95" d="M-1.64362 -0.932617H600.943V403.841H-1.64362V-0.932617Z" fill="white"/>
+<path opacity="0.95" d="M-1.27307 245.136H600.49V403.401H-1.27307V245.136Z" fill="white"/>
+<path opacity="0.95" d="M-1.27307 158.123H600.49V246.121H-1.27307V158.123Z" fill="#078930"/>
+<path opacity="0.95" d="M-1.27307 -0.470215H600.49V157.795H-1.27307V-0.470215Z" fill="#FCDD0A"/>
+<path opacity="0.95" d="M136.624 33.6995L155.109 67.4794L118.299 78.6944L154.855 89.2856L136.624 123.689L169.836 104.888L180.863 142.327L191.276 105.146L225.101 123.689L206.616 89.9093L243.426 78.6944L206.87 68.1031L225.101 33.6995L191.889 52.5012L180.863 15.062L170.449 52.2428L136.624 33.6995Z" fill="#DA121A"/>
+<path opacity="0.95" d="M180.862 267.027L222.389 329.357L180.862 393.149L155.27 329.357L180.862 267.027Z" fill="#DC1C1A"/>
+<path opacity="0.95" d="M180.861 266.296L139.334 328.627L180.861 392.418L206.454 328.627L180.861 266.296V266.296Z" fill="#DC1C1A"/>
+</g>
+<defs>
+<clipPath id="clip0_1_11035">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

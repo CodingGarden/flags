@@ -1,0 +1,23 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Terschelling</cgf:name>
+  <cgf:route>nl/fl/terschelling</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_1472)">
+<path d="M-40 -40H680V120H-40V-40Z" fill="#F42938"/>
+<path d="M-40 120H680V280H-40V120Z" fill="#FFE000"/>
+<path d="M-40 280H680V440H-40V280Z" fill="white"/>
+<path d="M-40 120H680Z" fill="black"/>
+<path d="M-40 120H680" stroke="#002595" stroke-width="60"/>
+<path d="M-40 280H680Z" fill="black"/>
+<path d="M-40 280H680" stroke="#00694E" stroke-width="60"/>
+</g>
+<defs>
+<clipPath id="clip0_1_1472">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

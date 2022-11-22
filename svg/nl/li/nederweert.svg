@@ -1,0 +1,19 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Nederweert</cgf:name>
+  <cgf:route>nl/li/nederweert</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_4092)">
+<path d="M600 0H0V200H600V0Z" fill="#0039A7"/>
+<path d="M600 200H0V400H600V200Z" fill="#006C56"/>
+<path d="M0 150C28.5714 133.333 57.1429 133.333 85.7143 150C114.286 166.667 142.857 166.667 171.429 150C200 133.333 228.571 133.333 257.143 150C285.714 166.667 314.286 166.667 342.857 150C371.429 133.333 400 133.333 428.571 150C457.143 166.667 485.714 166.667 514.286 150C542.857 133.333 571.429 133.333 600 150V250C571.429 233.333 542.857 233.333 514.286 250C485.714 266.667 457.143 266.667 428.571 250C400 233.333 371.429 233.333 342.857 250C314.286 266.667 285.714 266.667 257.143 250C228.571 233.333 200 233.333 171.429 250C142.857 266.667 114.286 266.667 85.7143 250C57.1429 233.333 28.5714 233.333 0 250" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_4092">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

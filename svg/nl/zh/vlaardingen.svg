@@ -1,0 +1,19 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Vlaardingen</cgf:name>
+  <cgf:route>nl/zh/vlaardingen</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_11314)">
+<path d="M598.748 0H1.25176C0.560431 0 0 0.56043 0 1.25176V132.082C0 132.773 0.560431 133.333 1.25176 133.333H598.748C599.44 133.333 600 132.773 600 132.082V1.25176C600 0.56043 599.44 0 598.748 0Z" fill="#AE1C27"/>
+<path d="M598.748 133.333H1.25176C0.560431 133.333 0 133.894 0 134.585V265.415C0 266.106 0.560431 266.667 1.25176 266.667H598.748C599.44 266.667 600 266.106 600 265.415V134.585C600 133.894 599.44 133.333 598.748 133.333Z" fill="#FFFF00"/>
+<path d="M598.748 266.667H1.25176C0.560431 266.667 0 267.227 0 267.918V398.748C0 399.439 0.560431 400 1.25176 400H598.748C599.44 400 600 399.439 600 398.748V267.918C600 267.227 599.44 266.667 598.748 266.667Z" fill="#21468C"/>
+</g>
+<defs>
+<clipPath id="clip0_1_11314">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

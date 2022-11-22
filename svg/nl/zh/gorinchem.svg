@@ -1,0 +1,19 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Gorinchem</cgf:name>
+  <cgf:route>nl/zh/gorinchem</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_10730)">
+<path d="M600 0H0V400H600V0Z" fill="white"/>
+<path d="M0 60H600ZM600 140H0ZM0 260H600ZM600 340H0Z" fill="black"/>
+<path d="M0 60H600M600 140H0M0 260H600M600 340H0" stroke="#CC112F" stroke-width="30"/>
+</g>
+<defs>
+<clipPath id="clip0_1_10730">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

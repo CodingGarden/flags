@@ -1,0 +1,21 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Katwijk</cgf:name>
+  <cgf:route>nl/zh/katwijk</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_11016)">
+<path d="M600 0H0V400H600V0Z" fill="white"/>
+<path d="M0 0H600L300 200L0 0Z" fill="#FFDD00"/>
+<path d="M0 400H600L300 200L0 400Z" fill="#D40000"/>
+<path d="M0 0L600 400ZM0 400L600 0Z" fill="black"/>
+<path d="M0 0L600 400M0 400L600 0" stroke="#005AAB" stroke-width="85.7143"/>
+</g>
+<defs>
+<clipPath id="clip0_1_11016">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

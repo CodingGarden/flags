@@ -1,0 +1,31 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Overbetuwe</cgf:name>
+  <cgf:route>nl/ge/overbetuwe</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_3286)">
+<path d="M0 0H600V400H0V0Z" fill="#FFD204"/>
+<rect x="300" y="100" width="100" height="300" fill="#00AEEF"/>
+<rect x="200" width="100" height="300" fill="#00AEEF"/>
+<rect x="400" width="100" height="300" fill="#00AEEF"/>
+<rect x="500" y="100" width="100" height="300" fill="#00AEEF"/>
+<path d="M50 110V87H63V100H78V87H92V100H107V87H122V100H137V87H150V110H50Z" fill="#E51937"/>
+<path d="M62 125L51 112H149L137 125H62Z" fill="#E51937"/>
+<path d="M56 231L63 127H136L144 231H56Z" fill="#E51937"/>
+<path d="M46 243L55 233H145L154 243.5L46 243Z" fill="#E51937"/>
+<path d="M37 308L44 246H156L163 308H120.5V278C120.5 278 120.5 259.5 100 259.5C79.5 259.5 79.5 278 79.5 278V308H37Z" fill="#E51937"/>
+<path d="M89 202H111V170C111 170 111 159 100 159C89 159 89 170 89 170V202Z" fill="#FFD204"/>
+<path d="M200 100H300V233C255 233 243 166.5 200 166.5V100Z" fill="white"/>
+<path d="M400 100H500V233C455 233 443 166.5 400 166.5V100Z" fill="white"/>
+<path d="M300 300H400V166C355 166 343 233 300 233V300Z" fill="white"/>
+<path d="M500 300H600V166C555 166 543 233 500 233V300Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_1_3286">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

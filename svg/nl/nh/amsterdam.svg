@@ -1,0 +1,24 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Amsterdam</cgf:name>
+  <cgf:route>nl/nh/amsterdam</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_5870)">
+<path d="M600 0H0V400H600V0Z" fill="#DA121A"/>
+<path d="M600 133.333H0V266.667H600V133.333Z" fill="black"/>
+<path d="M173.092 157.574L88.2396 242.426ZM88.2396 157.574L173.092 242.426Z" fill="black"/>
+<path d="M173.092 157.574L88.2396 242.426M88.2396 157.574L173.092 242.426" stroke="white" stroke-width="30"/>
+<path d="M342.426 157.574L257.574 242.426ZM257.574 157.574L342.426 242.426Z" fill="black"/>
+<path d="M342.426 157.574L257.574 242.426M257.574 157.574L342.426 242.426" stroke="white" stroke-width="30"/>
+<path d="M511.759 157.574L426.907 242.426ZM426.907 157.574L511.759 242.426Z" fill="black"/>
+<path d="M511.759 157.574L426.907 242.426M426.907 157.574L511.759 242.426" stroke="white" stroke-width="30"/>
+</g>
+<defs>
+<clipPath id="clip0_1_5870">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

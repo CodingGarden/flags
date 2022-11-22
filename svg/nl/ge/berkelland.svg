@@ -1,0 +1,21 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Berkelland</cgf:name>
+  <cgf:route>nl/ge/berkelland</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_2545)">
+<path d="M600 0H0V400H600V0Z" fill="#1A5798"/>
+<path d="M34 320L146 301.5L218.5 400H173.5L148 373.5L99.5 378.5L34 320Z" fill="#C16631"/>
+<path d="M92 186L214 162.5L276.5 279.5L246.5 288.5L219 251.5L169 263L92 186Z" fill="#C16631"/>
+<path d="M226 69.5L346 42.5L406.5 192L369 199.5L347.5 153L286.5 168L226 69.5Z" fill="#C16631"/>
+<path d="M394 0H514L535.5 109.5L497 112.5L487 80L418.5 90L394 0Z" fill="#C16631"/>
+</g>
+<defs>
+<clipPath id="clip0_1_2545">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

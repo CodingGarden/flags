@@ -1,0 +1,22 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Loon op Zand</cgf:name>
+  <cgf:route>nl/nb/loon_op_zand</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_5219)">
+<path d="M0 0H600V400H0V0Z" fill="#FCCC00"/>
+<path d="M0 0H600V200H0V0Z" fill="white"/>
+<path d="M0 55.5557H600ZM600 100H0ZM0 144.445H600Z" fill="black"/>
+<path d="M0 55.5557H600M600 100H0M0 144.445H600" stroke="black" stroke-width="16.6667"/>
+<path d="M0 255.556H600ZM600 300H0ZM0 344.445H600Z" fill="black"/>
+<path d="M0 255.556H600M600 300H0M0 344.445H600" stroke="#CC112F" stroke-width="16.6667"/>
+</g>
+<defs>
+<clipPath id="clip0_1_5219">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:cgf="https://coding.garden/flags"><metadata id="cgf-metadata">
+
+<cgf:flag>
+  <cgf:name>Schiermonnikoog</cgf:name>
+  <cgf:route>nl/fl/schiermonnikoog</cgf:route>
+  <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+</cgf:flag>
+
+</metadata><g clip-path="url(#clip0_1_1440)">
+<path d="M0 0H600V400H0" fill="#009A3D"/>
+<path d="M0 0H600V171.429H0V228.571H600V400H0" fill="white"/>
+<path d="M0 0H600V57.1429H0V228.571H600V285.714H0" fill="#CC0C2F"/>
+<path d="M0 114.286H600V171.429H0V342.857H600V400H0" fill="#0039A7"/>
+</g>
+<defs>
+<clipPath id="clip0_1_1440">
+<rect width="600" height="400" fill="white"/>
+</clipPath>
+</defs>
+</svg>
