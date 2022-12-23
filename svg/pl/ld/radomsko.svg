@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0"
+  width="600pt" height="375pt" id="svg1722"
+  xmlns:cgf="https://coding.garden/flags">
+  <cgf:flag>
+    <cgf:name>Radomsko</cgf:name>
+    <cgf:route>pl/ld/radomsko</cgf:route>
+    <cgf:aspect-ratio>1.6</cgf:aspect-ratio>
+  </cgf:flag>
+
+  <defs id="defs1725" />
+  <g transform="matrix(41.66667,0,0,1.875,-15416.67,-4.429092)" id="g1737">
+    <rect width="18" height="100" x="370" y="2.3621826"
+      style="opacity:1;fill:#a12726;fill-opacity:1;stroke:none;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      id="rect1731" />
+    <rect width="18" height="50" x="370" y="102.36218"
+      style="opacity:1;fill:#f3bf02;fill-opacity:1;stroke:none;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      id="rect1733" />
+    <rect width="18" height="100" x="370" y="152.36218"
+      style="opacity:1;fill:#0071b5;fill-opacity:1;stroke:none;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      id="rect1735" />
+  </g>
+</svg>

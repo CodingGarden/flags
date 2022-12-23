@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0"
+  width="600pt" height="375pt" id="svg1435"
+  xmlns:cgf="https://coding.garden/flags">
+  <cgf:flag>
+    <cgf:name>Bełchatów</cgf:name>
+    <cgf:route>pl/ld/belchatow</cgf:route>
+    <cgf:aspect-ratio>1.6</cgf:aspect-ratio>
+  </cgf:flag>
+
+  <defs id="defs1438" />
+  <g id="g1644">
+    <rect width="750.00024" height="156.25005" x="-5.9999998e-05" y="-7.3197021e-05"
+      style="fill:#0099ff;fill-opacity:1;stroke:none;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      id="rect1444" />
+    <rect width="750.00024" height="156.25005" x="-5.9999998e-05" y="156.24997"
+      style="fill:#fbf947;fill-opacity:1;stroke:none;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      id="rect1447" />
+    <rect width="750.00024" height="156.25005" x="-5.9999998e-05" y="312.50003"
+      style="fill:#008101;fill-opacity:1;stroke:none;stroke-width:3.75;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      id="rect1449" />
+  </g>
+</svg>

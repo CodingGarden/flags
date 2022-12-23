@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="300" xmlns:cgf="https://coding.garden/flags">
+  <cgf:flag>
+    <cgf:name>Kutno</cgf:name>
+    <cgf:route>pl/ld/kutno</cgf:route>
+    <cgf:aspect-ratio>1.7</cgf:aspect-ratio>
+  </cgf:flag>
+
+  <rect fill="#0193dc" width="100%" height="100%" />
+  <rect fill="#efd003" width="30%" height="50%" />
+  <rect fill="#efd003" width="70%" height="50%" x="30%" y="50%" />
+</svg>
