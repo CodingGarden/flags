@@ -30,8 +30,12 @@ function parseDirectory(directory, metadatas = []) {
       parseDirectory(itemPath, metadatas);
     } else {
       if (!itemPath.endsWith('svg')) return;
-      const metadata = getMetadata(itemPath);
-      metadatas.push(metadata);
+      try {
+        const metadata = getMetadata(itemPath);
+        metadatas.push(metadata);
+      } catch (error) {
+        console.error(error);
+      }
     }
   });
   return metadatas;

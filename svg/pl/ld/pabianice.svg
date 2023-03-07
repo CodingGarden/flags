@@ -12,11 +12,13 @@
   inkscape:output_extension="org.inkscape.output.svg.inkscape"
   sodipodi:docbase="C:\Users\Mistrz\Desktop" version="1.0"
   xmlns:cgf="https://coding.garden/flags">
-  <cgf:flag>
-    <cgf:name>Pabianice</cgf:name>
-    <cgf:route>pl/ld/pabianice</cgf:route>
-    <cgf:aspect-ratio>1.6</cgf:aspect-ratio>
-  </cgf:flag>
+  <metadata id="cgf-metadata">
+    <cgf:flag>
+      <cgf:name>Pabianice</cgf:name>
+      <cgf:route>pl/ld/pabianice</cgf:route>
+      <cgf:aspect-ratio>1.6</cgf:aspect-ratio>
+    </cgf:flag>
+  </metadata>
 
   <metadata id="metadata30"><rdf:RDF><cc:Work rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/></cc:Work></rdf:RDF></metadata><sodipodi:namedview inkscape:window-height="480" inkscape:window-width="640" inkscape:pageshadow="2" inkscape:pageopacity="0.0" guidetolerance="10.0" gridtolerance="10.0" objecttolerance="10.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base"/>
  <defs id="defs4">

@@ -5,11 +5,13 @@
   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" version="1.0" width="600"
   height="300pt" id="svg2"
   xmlns:cgf="https://coding.garden/flags">
-  <cgf:flag>
-    <cgf:name>Skierniewice</cgf:name>
-    <cgf:route>pl/ld/skierniewice</cgf:route>
-    <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
-  </cgf:flag>
+  <metadata id="cgf-metadata">
+    <cgf:flag>
+      <cgf:name>Skierniewice</cgf:name>
+      <cgf:route>pl/ld/skierniewice</cgf:route>
+      <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+    </cgf:flag>
+  </metadata>
 
   <defs id="defs5">
     <defs id="defs5117" />

@@ -4445,6 +4445,56 @@
     "aspect_ratio": "1.6"
   },
   {
+    "name": "Bełchatów",
+    "route": "pl/ld/belchatow",
+    "aspect_ratio": "1.6"
+  },
+  {
+    "name": "Kutno",
+    "route": "pl/ld/kutno",
+    "aspect_ratio": "1.7"
+  },
+  {
+    "name": "Pabianice",
+    "route": "pl/ld/pabianice",
+    "aspect_ratio": "1.6"
+  },
+  {
+    "name": "Piotrków Trybunalski",
+    "route": "pl/ld/piotrkow_trybunalski",
+    "aspect_ratio": "1.6"
+  },
+  {
+    "name": "Radomsko",
+    "route": "pl/ld/radomsko",
+    "aspect_ratio": "1.6"
+  },
+  {
+    "name": "Sieradz",
+    "route": "pl/ld/sieradz",
+    "aspect_ratio": "1.5"
+  },
+  {
+    "name": "Skierniewice",
+    "route": "pl/ld/skierniewice",
+    "aspect_ratio": "1.5"
+  },
+  {
+    "name": "Tomaszów Mazowiecki",
+    "route": "pl/ld/tomaszow_mazowiecki",
+    "aspect_ratio": "1.6"
+  },
+  {
+    "name": "Zduńska Wola",
+    "route": "pl/ld/zdunska_wola",
+    "aspect_ratio": "1.7"
+  },
+  {
+    "name": "Zgierz",
+    "route": "pl/ld/zgierz",
+    "aspect_ratio": "1.6"
+  },
+  {
     "name": "",
     "route": "pl/ld",
     "aspect_ratio": "2.1052631578947367"

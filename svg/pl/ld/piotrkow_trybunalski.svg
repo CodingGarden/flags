@@ -10,11 +10,13 @@
   inkscape:export-filename="D:\olek\Pulpit\svg\POL_powiat_garwolinski_flag.png"
   inkscape:export-xdpi="87" inkscape:export-ydpi="87"
   xmlns:cgf="https://coding.garden/flags">
-  <cgf:flag>
-    <cgf:name>Piotrków Trybunalski</cgf:name>
-    <cgf:route>pl/ld/piotrkow_trybunalski</cgf:route>
-    <cgf:aspect-ratio>1.6</cgf:aspect-ratio>
-  </cgf:flag>
+  <metadata id="cgf-metadata">
+    <cgf:flag>
+      <cgf:name>Piotrków Trybunalski</cgf:name>
+      <cgf:route>pl/ld/piotrkow_trybunalski</cgf:route>
+      <cgf:aspect-ratio>1.6</cgf:aspect-ratio>
+    </cgf:flag>
+  </metadata>
 
   <metadata id="metadata7">
     <rdf:RDF>

@@ -8,11 +8,13 @@
   id="svg2" sodipodi:version="0.32" inkscape:version="0.44"
   sodipodi:docbase="D:\dokumenty\kot\do wiki" sodipodi:docname="POL Sieradz flag.svg" version="1.0"
   xmlns:cgf="https://coding.garden/flags">
-  <cgf:flag>
-    <cgf:name>Sieradz</cgf:name>
-    <cgf:route>pl/ld/sieradz</cgf:route>
-    <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
-  </cgf:flag>
+  <metadata id="cgf-metadata">
+    <cgf:flag>
+      <cgf:name>Sieradz</cgf:name>
+      <cgf:route>pl/ld/sieradz</cgf:route>
+      <cgf:aspect-ratio>1.5</cgf:aspect-ratio>
+    </cgf:flag>
+  </metadata>
 
   <defs id="defs4">
     <marker orient="auto" markerHeight="3" markerWidth="4" markerUnits="strokeWidth" refY="5"

@@ -3,11 +3,13 @@
 <svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0"
   width="600pt" height="375pt" id="svg1435"
   xmlns:cgf="https://coding.garden/flags">
-  <cgf:flag>
-    <cgf:name>Bełchatów</cgf:name>
-    <cgf:route>pl/ld/belchatow</cgf:route>
-    <cgf:aspect-ratio>1.6</cgf:aspect-ratio>
-  </cgf:flag>
+  <metadata id="cgf-metadata">
+    <cgf:flag>
+      <cgf:name>Bełchatów</cgf:name>
+      <cgf:route>pl/ld/belchatow</cgf:route>
+      <cgf:aspect-ratio>1.6</cgf:aspect-ratio>
+    </cgf:flag>
+  </metadata>
 
   <defs id="defs1438" />
   <g id="g1644">

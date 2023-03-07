@@ -3,11 +3,13 @@
 <svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0"
   width="600pt" height="360pt" id="svg3101"
   xmlns:cgf="https://coding.garden/flags">
-  <cgf:flag>
-    <cgf:name>Zduńska Wola</cgf:name>
-    <cgf:route>pl/ld/zdunska_wola</cgf:route>
-    <cgf:aspect-ratio>1.7</cgf:aspect-ratio>
-  </cgf:flag>
+  <metadata id="cgf-metadata">
+    <cgf:flag>
+      <cgf:name>Zduńska Wola</cgf:name>
+      <cgf:route>pl/ld/zdunska_wola</cgf:route>
+      <cgf:aspect-ratio>1.7</cgf:aspect-ratio>
+    </cgf:flag>
+  </metadata>
 
   <defs id="defs3104" />
   <g transform="matrix(1.875,0,0,1.875,0,-576.0352)" id="g5782">

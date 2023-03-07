@@ -7,11 +7,13 @@
   viewBox="0 0 507.99998 317.50001" version="1.1" id="svg955" sodipodi:docname="POL_Zgierz_flag.svg"
   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
   xmlns:cgf="https://coding.garden/flags">
-  <cgf:flag>
-    <cgf:name>Zgierz</cgf:name>
-    <cgf:route>pl/ld/zgierz</cgf:route>
-    <cgf:aspect-ratio>1.6</cgf:aspect-ratio>
-  </cgf:flag>
+  <metadata id="cgf-metadata">
+    <cgf:flag>
+      <cgf:name>Zgierz</cgf:name>
+      <cgf:route>pl/ld/zgierz</cgf:route>
+      <cgf:aspect-ratio>1.6</cgf:aspect-ratio>
+    </cgf:flag>
+  </metadata>
 
   <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1"
     objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0"
