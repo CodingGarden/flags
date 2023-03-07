@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0"
+  width="600pt" height="360pt" id="svg3101"
+  xmlns:cgf="https://coding.garden/flags">
+  <cgf:flag>
+    <cgf:name>Zduńska Wola</cgf:name>
+    <cgf:route>pl/ld/zdunska_wola</cgf:route>
+    <cgf:aspect-ratio>1.7</cgf:aspect-ratio>
+  </cgf:flag>
+
+  <defs id="defs3104" />
+  <g transform="matrix(1.875,0,0,1.875,0,-576.0352)" id="g5782">
+    <path d="M 0,307.21875 L 0,547.1875 L 239.96875,307.21875 L 0,307.21875 z "
+      style="opacity:1;fill:#009241;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+      id="rect5760" />
+    <path
+      d="M 239.96875,307.21875 L 0,547.1875 L 0,547.21875 L 0.03125,547.21875 L 400,547.21875 L 400,307.21875 L 239.96875,307.21875 z "
+      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-miterlimit:4;stroke-opacity:1"
+      id="path5752" />
+    <path
+      d="M 339.96875,307.21875 L 100,547.1875 L 100.03125,547.21875 L 400,547.21875 L 400,307.21875 L 339.96875,307.21875 z "
+      style="fill:#fcdb00;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-miterlimit:4;stroke-opacity:1"
+      id="path5765" />
+    <path d="M 400,347.1875 L 200,547.1875 L 200.03125,547.21875 L 400,547.21875 L 400,347.1875 z "
+      style="fill:#d8261c;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-miterlimit:4;stroke-opacity:1"
+      id="path5770" />
+    <path d="M 400,447.1875 L 300,547.1875 L 300.03125,547.21875 L 400,547.21875 L 400,447.1875 z "
+      style="fill:#009241;fill-opacity:1;stroke:none;stroke-width:1.25;stroke-miterlimit:4;stroke-opacity:1"
+      id="rect3985" />
+  </g>
+</svg>
